@@ -1,0 +1,18 @@
+*{
+	color:#FF9797;
+}	
+body{
+	background-color:#ADFEDC;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:100% 100%;
+}
+h2{
+	text-align:center;
+	font-size:45px;
+	color:#FF9797;
+	margin-top:20px;
+}
+form{
+	text-align:center;
+}
